@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DMF/PARVW</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>/DMF/PARVW</DOMNAME>
+    <LOGFLAG>X</LOGFLAG>
+    <HEADLEN>05</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>15</SCRLEN2>
+    <SCRLEN3>20</SCRLEN3>
+    <DDTEXT>OBSOLETE - Partner Function</DDTEXT>
+    <REPTEXT>Funct</REPTEXT>
+    <SCRTEXT_S>Function</SCRTEXT_S>
+    <SCRTEXT_M>Partner Functn</SCRTEXT_M>
+    <SCRTEXT_L>Partner Function</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <DEFFDNAME>PARTN_ROLE</DEFFDNAME>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>D</LANGU>
+    <LANGU>늑</LANGU>
+    <LANGU>닱</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>OBSOLET - Partnerfunktion</DDTEXT>
+     <REPTEXT>Funkt</REPTEXT>
+     <SCRTEXT_S>Funktion</SCRTEXT_S>
+     <SCRTEXT_M>Partnerfunktion</SCRTEXT_M>
+     <SCRTEXT_L>Partnerfunktion</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>늑</DDLANGUAGE>
+     <DDTEXT>DTEL /DMF/PARVW</DDTEXT>
+     <REPTEXT>DTEL&gt;</REPTEXT>
+     <SCRTEXT_S>DTEL&gt;/DMF/</SCRTEXT_S>
+     <SCRTEXT_M>DTEL /DMF/PARVW</SCRTEXT_M>
+     <SCRTEXT_L>DTEL /DMF/PARVW</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>닱</DDLANGUAGE>
+     <DDTEXT>[ŎƁŜŎĻĔŢĔ∙-∙Ƥąŗţŋēŗ∙Ƒűŋċţįŏŋ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]</DDTEXT>
+     <REPTEXT>[Ƒűŋ]</REPTEXT>
+     <SCRTEXT_S>[Ƒűŋċţįŏŋ]</SCRTEXT_S>
+     <SCRTEXT_M>[Ƥąŗţŋēŗ∙Ƒűŋċţ]</SCRTEXT_M>
+     <SCRTEXT_L>[Ƥąŗţŋēŗ∙Ƒűŋċţįŏŋ∙∙]</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

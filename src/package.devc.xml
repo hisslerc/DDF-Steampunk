@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DEVC" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DEVC>
+    <CTEXT>DDF Location Master Data Database Objects</CTEXT>
+    <COMP_POSID>CA-DDF-RT-MD</COMP_POSID>
+    <COMPONENT>/DMF/CAR0000008</COMPONENT>
+    <TPCLASS>X</TPCLASS>
+    <SRV_CHECK>X</SRV_CHECK>
+    <PROJECT_GUID>0gyap1UpvESOm72brUcnwg==</PROJECT_GUID>
+    <PROJECT_ID>S09_TI_DMF11_SC_UDFC</PROJECT_ID>
+    <PROJECT_SHORT_TEXT>XXS09_TI_DMF11_SC_UDFC</PROJECT_SHORT_TEXT>
+   </DEVC>
+   <PERMISSION>
+    <SCOMPPDTLN>
+     <INTF_NAME>_ABA_DEFAULT</INTF_NAME>
+     <ERR_SEVER>NONE</ERR_SEVER>
+    </SCOMPPDTLN>
+    <SCOMPPDTLN>
+     <INTF_NAME>_ABA_FILTER</INTF_NAME>
+     <ERR_SEVER>NONE</ERR_SEVER>
+    </SCOMPPDTLN>
+    <SCOMPPDTLN>
+     <INTF_NAME>_ABA_VIRTUAL_DEFAULT</INTF_NAME>
+     <ERR_SEVER>NONE</ERR_SEVER>
+    </SCOMPPDTLN>
+    <SCOMPPDTLN>
+     <INTF_NAME>_BASIS_DEFAULT</INTF_NAME>
+     <ERR_SEVER>NONE</ERR_SEVER>
+    </SCOMPPDTLN>
+    <SCOMPPDTLN>
+     <INTF_NAME>_BASIS_FILTER</INTF_NAME>
+     <ERR_SEVER>NONE</ERR_SEVER>
+    </SCOMPPDTLN>
+    <SCOMPPDTLN>
+     <INTF_NAME>_BASIS_VIRTUAL_DEFAULT</INTF_NAME>
+     <ERR_SEVER>NONE</ERR_SEVER>
+    </SCOMPPDTLN>
+    <SCOMPPDTLN>
+     <INTF_NAME>SCOS_PIF</INTF_NAME>
+     <ERR_SEVER>NONE</ERR_SEVER>
+    </SCOMPPDTLN>
+   </PERMISSION>
+  </asx:values>
+ </asx:abap>
+</abapGit>
